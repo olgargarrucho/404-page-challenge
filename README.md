@@ -70,9 +70,9 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Contact
 
-- Website [your-website.com](https://{www.linkedin.com/in/olga-rodriguez-garrucho-231152212/})
-- GitHub [@your-username](https://{github.com/olguita2412})
-- Twitter [@your-twitter](https://{twitter.com/olguiita24})
+- Website [Linkedin](https://{www.linkedin.com/in/olga-rodriguez-garrucho-231152212/})
+- GitHub [@olguita2412](https://{github.com/olguita2412})
+- Twitter [@olguiita24](https://{twitter.com/olguiita24})
 
 ## License
 
