@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 <!-- OVERVIEW -->
@@ -48,6 +47,9 @@ The page should be responsive and fullfill the user stories bellow:
 
 Once completed, I give my personal touches by adding transition, using my own images and changing colors.
 
+![Mobile](./images/mobile-ownpreview.png)
+![Desktop](./images/desktop-ownpreview.png)
+
 I have practiced the position of elements with Flexbox, CSS transition and styles and this README.md.
 
 I loved this proyect because it has served me for establish knowledge about HTML and CSS.
@@ -64,23 +66,13 @@ If you want to see the final demo of this proyect deployed, you can visit [Demo 
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build a web responsive to complete the given user stories.
 
 ## Contact
 
 - Website [your-website.com](https://{www.linkedin.com/in/olga-rodriguez-garrucho-231152212/})
 - GitHub [@your-username](https://{github.com/olguita2412})
 - Twitter [@your-twitter](https://{twitter.com/olguiita24})
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## License
 
