@@ -4,3 +4,12 @@
     margin: 0;
 }
 
+:root{
+    font-size: 62.5%;
+    --font-header:'Inconsolata', monospace;
+    --font-main: 'Space Mono', monospace;
+    --font-footer: 'Montserrat', sans-serif;
+    --color-primary: #333333;
+    --color-secondary: #4F4F4F;
+    --color-footer: #BDBDBD;
+}
