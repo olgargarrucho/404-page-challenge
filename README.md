@@ -47,8 +47,8 @@ The page should be responsive and fullfill the user stories bellow:
 
 Once completed, I give my personal touches by adding transition, using my own images and changing colors.
 
-![Mobile](./images/mobile-ownpreview.png)
-![Desktop](./images/desktop-ownpreview.png)
+![Mobile](./images/desktop-ownpreview.png)
+![Desktop](./images/mobile-ownpreview.png)
 
 I have practiced the position of elements with Flexbox, CSS transition and styles and this README.md.
 
